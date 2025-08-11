@@ -1,0 +1,13 @@
+================= KANTINKU ===================
+
+Kode Makanan: 1
+Nama Makanan: Ayam Bakar
+Harga Makanan: 25000
+
+Kode Makanan: 3
+Nama Makanan: Nasi Goreng
+Harga Makanan: 21000
+
+Kode Makanan: 5
+Nama Makanan: Es Teh Manis
+Harga Makanan: 10000

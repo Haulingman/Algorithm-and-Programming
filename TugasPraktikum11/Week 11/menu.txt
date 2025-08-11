@@ -1,0 +1,20 @@
+1,Hamburger,8000
+2,Sandwich,8500
+3,Maccaroni,15000
+4,Fettucini,20000
+5,Tao Kae Noi,20500
+6,Nasi kucing,15000
+7,Mie gacoan,12000
+8,cilok bakar,21000
+9,Sate goreng,25000
+10,Es Teh Manis Tawar,4000
+11,Nasi Basi,150000
+12,Mie Kucing,1000
+13,Mie Uduk,20000
+14,Es Krim Coklat ,9000
+15,Es Teh Tawar,4000
+16,Kwetiaw,15000
+17,Milkshake,25000
+18,Kopi Starling,2500
+19,Kopi Susu Tanpa Susu,7500
+20,Mie ayam goreng ,10000
